@@ -1,6 +1,10 @@
 # seatd
 Be seated when you need it.
 
+##Demo
+
+[Link to Demo](https://youtu.be/86ZnD816TP0)
+
 ## What is Seatd
 Seatd is a mobile app that finds open, immediately available appointments for various personal services (*hair*, *nails*, *your favorite tattoo artist*). We seek to solve the problem of "uh oh. My stylist isn't available for a month and I have a wedding tomorrow. How can I find someone today without going through all of Yelp and making a dozen calls?"
 
